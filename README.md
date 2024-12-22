@@ -6,7 +6,8 @@ In this project, we implement the basic generator and discriminator from the [St
 
 The entire project is written in the jupyter notebook file provided. Running
 the notebook generates training outputs, models weights, and code files for
-model definition and inference. The dataset can be found at this [link](https://drive.google.com/file/d/1XlxtKcmVbVnsa6Mm4IbAsCC70-FdwQqq/view?usp=drive_link)
+model definition and inference. The dataset can be found at this
+[link](https://drive.google.com/file/d/1XlxtKcmVbVnsa6Mm4IbAsCC70-FdwQqq/view?usp=drive_link)
 
 The generated code files present in this repo are as follows
 
